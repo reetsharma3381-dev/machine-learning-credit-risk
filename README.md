@@ -1,4 +1,4 @@
-# machine-learning-credit-risk-trial-project
+# machine-learning-credit-risk
 
 ## Project Overview
 
