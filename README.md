@@ -82,6 +82,19 @@ machine-learning-credit-risk-trial-project/
 ├── requirements.txt
 └── images/
 ```
+## Results
+
+### ROC Curve
+
+![ROC](images/roc_curve.png)
+
+### Feature Importance
+
+![Importance](images/feature_importance.png)
+
+### SHAP Summary
+
+![SHAP](images/shap_summary.png)
 
 ---
 
