@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project develops an end-to-end machine learning pipeline to predict the probability of loan default using XGBoost. It demonstrates a typical credit risk modeling workflow used in banking and consumer lending by generating borrower data, training a classification model, evaluating performance, and interpreting predictions using SHAP.
+This project develops an end-to-end machine learning pipeline to predict the probability of loan default. It demonstrates a typical credit risk modeling workflow used in banking and consumer lending by generating borrower data, training a classification model, evaluating performance, and interpreting predictions using SHAP.
 
 > **Note:** This version uses a synthetic dataset for demonstration purposes. The workflow can be applied to real-world loan datasets such as LendingClub or Home Credit.
 
